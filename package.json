@@ -1,0 +1,11 @@
+{
+  "name": "uvitracker2",
+  "version": "1.0.0",
+  "description": "Herramienta para el Círculo de Tasadores",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "echo 'No build needed for now'"
+  },
+  "dependencies": {}
+}
